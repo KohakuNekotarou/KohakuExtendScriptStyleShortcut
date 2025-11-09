@@ -14,6 +14,7 @@ Please execute.
 
 ## extendScript for JavaScript
 ```
+// Style Shortcut Settings
 app.activeDocument.objectStyles.lastItem().shortcut = ""; // delete
 app.activeDocument.objectStyles.lastItem().shortcut = "Shift+Ctrl+Alt+Num 0";
 app.activeDocument.cellStyles.lastItem().shortcut = "Shift+Ctrl+Alt+Num 1";
@@ -38,10 +39,7 @@ https://developer.apple.com/download/all/?q=xcode
 Search for and install Java to use dolly.jar<br>
 SDK/devtools/dolly/dolly.jar<br>
 use<br>
-<img width="486" height="593" alt="dolly1" src="https://github.com/user-attachments/assets/7bf54bc5-b48a-4d9d-88b9-c52fcc0d8c5a" /><br>
-<img width="486" height="593" alt="dolly2" src="https://github.com/user-attachments/assets/dd42c974-86ad-41fa-aee8-165b3f40436a" /><br>
-<img width="486" height="593" alt="dolly3" src="https://github.com/user-attachments/assets/90963af7-1fcf-47f8-ac71-cc16f266ff2d" /><br>
-<img width="486" height="593" alt="dolly4" src="https://github.com/user-attachments/assets/82b91ecf-b52d-4a31-9d2c-f7f635abab56" /><br>
+
 The project directory is located at<br>
 SDK/build/mac/prj<br>
 Set up and create as follows.
