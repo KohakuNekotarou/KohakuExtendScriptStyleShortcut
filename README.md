@@ -39,7 +39,10 @@ https://developer.apple.com/download/all/?q=xcode
 Search for and install Java to use dolly.jar<br>
 SDK/devtools/dolly/dolly.jar<br>
 use<br>
-
+<img width="486" height="593" alt="dolly4" src="https://github.com/user-attachments/assets/9e036052-9cc8-4400-870b-7b85c7980c1e" /><br>
+<img width="486" height="593" alt="dolly3" src="https://github.com/user-attachments/assets/9e4b49a4-c1c5-418c-aa0c-97e85c7ecd28" /><br>
+<img width="486" height="593" alt="dolly2" src="https://github.com/user-attachments/assets/6557f5a0-5769-4b30-9004-1cc4fb696083" /><br>
+<img width="486" height="593" alt="dolly1" src="https://github.com/user-attachments/assets/6ca1e5a0-19a1-4077-85e5-cfee5a2c5210" /><br>
 The project directory is located at<br>
 SDK/build/mac/prj<br>
 Set up and create as follows.
