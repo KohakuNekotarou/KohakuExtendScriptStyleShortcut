@@ -15,12 +15,12 @@ Please execute.
 ## extendScript for JavaScript
 ```
 // Style Shortcut Settings
-app.activeDocument.objectStyles.lastItem().shortcut = ""; // delete
-app.activeDocument.objectStyles.lastItem().shortcut = "Shift+Ctrl+Alt+Num 0";
-app.activeDocument.cellStyles.lastItem().shortcut = "Shift+Ctrl+Alt+Num 1";
-app.activeDocument.tableStyles.lastItem().shortcut = "Shift+Ctrl+Alt+Num 2";
-app.activeDocument.paragraphStyles.lastItem().shortcut = "Shift+Ctrl+Alt+Num 3";
-app.activeDocument.characterStyles.lastItem().shortcut = "Shift+Ctrl+Alt+Num 4";
+app.activeDocument.objectStyles.lastItem().shortcut = "";
+app.activeDocument.objectStyles.lastItem().shortcut = "Shift+0";
+app.activeDocument.cellStyles.lastItem().shortcut = "Shift+1";
+app.activeDocument.tableStyles.lastItem().shortcut = "Shift+2";
+app.activeDocument.paragraphStyles.lastItem().shortcut = "Shift+3";
+app.activeDocument.characterStyles.lastItem().shortcut = "Shift+4";
 alert(app.activeDocument.characterStyles.lastItem().shortcut);
 ```
 
