@@ -15,7 +15,7 @@ Please execute.
 ## extendScript for JavaScript
 ```
 // Style Shortcut Settings
-app.activeDocument.objectStyles.lastItem().shortcut = "";
+app.activeDocument.objectStyles.lastItem().shortcut = ""; // delete
 app.activeDocument.objectStyles.lastItem().shortcut = "Shift+0";
 app.activeDocument.cellStyles.lastItem().shortcut = "Shift+1";
 app.activeDocument.tableStyles.lastItem().shortcut = "Shift+2";
